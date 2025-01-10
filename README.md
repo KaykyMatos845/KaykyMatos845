@@ -8,7 +8,7 @@
 
 ## 🚀 Habilidades:
 - **Linguagens:** Python, Java, HTML, CSS, JavaScript
-- **Ferramentas:** Git, Google Planilhas, VS Code
+- **Ferramentas:** Git, Planilhas (Excel), VS Code
 - **Outros:** Segurança no trabalho, automação de tarefas
 
 ---
