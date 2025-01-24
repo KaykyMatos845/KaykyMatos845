@@ -9,7 +9,7 @@
 ## 🚀 Habilidades:
 - **Linguagens:** Python, Java, HTML, CSS, JavaScript
 - **Ferramentas:** Git, Planilhas (Excel), VS Code
-- **Outros:** Segurança no trabalho, automação de tarefas
+- **Outros:** Serviços de nuvem como Huawei e Aws
 
 ---
 
